@@ -22,11 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nandaluri-reddy-8387501bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nandaluri-reddy-8387501bb/" height="35" width="45" /></a>
-<a href="https://www.instagram.com/chinnu_reddy_0608/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chinnu_reddy_0608" height="35" width="45" /></a>
-<a href="https://www.codechef.com/users/kailash_1729" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kailash_1729" height="35" width="45" /></a>
-<a href="https://www.hackerrank.com/nandaluri_reddy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nandaluri_reddy1" height="35" width="45" /></a>
-<a href="https://codeforces.com/profile/kailash1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kailash1729" height="35" width="45" /></a>
+<a href="https://www.linkedin.com/in/nandaluri-reddy-8387501bb/">LinkedIn</a><br>
+<a href="https://www.instagram.com/chinnu_reddy_0608/">Instagram</a><br>
+<a href="https://leetcode.com/reddynk/">LeetCode</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
