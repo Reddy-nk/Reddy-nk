@@ -7,12 +7,12 @@
 
 -  **I’m currently learning various libraries of python and also learning c++**
 
--  **All of my projects are available at ...**<a href="https://github.com/kailash1729?tab=repositories"><img src="https://emoji.discord.st/emojis/cb3dc3d2-fd74-4a3b-a9e1-f7ad58497090.gif" width="28px" height="28px" alt="link"></a>
+-  **All of my projects are available at ...**<a href="https://github.com/Reddy-nk?tab=repositories"><img src="https://emoji.discord.st/emojis/cb3dc3d2-fd74-4a3b-a9e1-f7ad58497090.gif" width="28px" height="28px" alt="link"></a>
 
 
 -  **I’m looking to collaborate on any projects related to python**
 
--  **Ask me about python,C and even i have knowledge about blockchain technology and how crypto works.**
+-  **Ask me about python,C++ and even i have knowledge about blockchain technology and how crypto works.**
 
 -  **Reach me at kailash.nanaluri@gmail.com**
 
