@@ -1,4 +1,4 @@
-<h1 align="center">Hi Guys <a href="https://emoji.discord.st/emojis/3d96defc-3ca3-4964-9393-9b72a3a0e549.gif"><img src="https://emoji.discord.st/emojis/3d96defc-3ca3-4964-9393-9b72a3a0e549.gif" width="64px" height="64px" alt="wave"></a>, Myself Kailash Reddy<a href="https://emoji.gg/emoji/9721-inferna-happy"><img src="https://emoji.gg/assets/emoji/9721-inferna-happy.png" width="70px" height="70px" alt="inferna_happy"></a></h1>
+<h1 align="center">Hi Guys <a href="https://emoji.discord.st/emojis/3d96defc-3ca3-4964-9393-9b72a3a0e549.gif"><img src="https://emoji.discord.st/emojis/3d96defc-3ca3-4964-9393-9b72a3a0e549.gif" width="64px" height="64px" alt="wave"></a>, Myself Kailash Reddy
 
 <h2 align="center"><I>A Competitive programming beginner.</I></h2>
 
